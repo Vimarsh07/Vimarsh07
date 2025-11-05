@@ -1,6 +1,6 @@
 # Hi, I'm Vimarsh 👋
 
-**AI Engineer-in-progress @ Dow Jones (Data & AI)** • Building practical AI agents for web/mobile • Python • Node/TS • SQL • AWS, GCP, Azure ✨
+**AI Engineer** • Building practical AI agents for web/mobile • Python • Node/TS • SQL • AWS, GCP, Azure ✨
 
 - 🚗 Shipping: Driving School SaaS (Angular + NestJS + Azure SQL + AI agent)
 - 🍝 E-comm: Nastasi Foods (Next.js + Supabase + AI product Q&A)
